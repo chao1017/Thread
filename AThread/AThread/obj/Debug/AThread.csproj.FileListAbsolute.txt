@@ -1,0 +1,6 @@
+D:\GitHub\Thread\AThread\AThread\bin\Debug\AThread.exe.config
+D:\GitHub\Thread\AThread\AThread\bin\Debug\AThread.exe
+D:\GitHub\Thread\AThread\AThread\bin\Debug\AThread.pdb
+D:\GitHub\Thread\AThread\AThread\obj\Debug\AThread.csprojResolveAssemblyReference.cache
+D:\GitHub\Thread\AThread\AThread\obj\Debug\AThread.exe
+D:\GitHub\Thread\AThread\AThread\obj\Debug\AThread.pdb
